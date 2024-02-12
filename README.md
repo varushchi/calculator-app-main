@@ -1,0 +1,1 @@
+[Calculator app challenge on Frontend Mentor](/preview.png).
